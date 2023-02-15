@@ -14,4 +14,9 @@ Contactez-moi!
 >:envelope: <john.doe@gmail.com>  
 :telephone_receiver: +33(0)7 08 09 10 11  
 :computer: [Linkedin]()  
-:bird: [Twitter]()
+:bird: [Twitter]()  
+
+A bientot!
+
+***
+© 2023 - **John Doe** - [Me contacter]() 

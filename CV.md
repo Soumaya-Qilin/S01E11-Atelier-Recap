@@ -10,7 +10,7 @@
 
 **John Doe**
 
-404 Avenue du Web
+404 Avenue du Web  
 75000 Paris
 
 <john.doe@gmail.com>
@@ -23,7 +23,7 @@
 - **2012** :  Cuisinier – fast-food QUICK – Travail d’été
 - **2012 - 2013** : Préparateur de commandes 
 
-**Formation**:
+**Formation**
 
 - **2007 - 2010** : Baccalauréat scientifique – Lycée Marguerite de Flandres – Gondecourt (France)  Baccalauréat obtenu avec mention  
 - **2010 - 2012** : Classe Préparatoire aux grandes écoles – Valenciennes (France) Cursus scientifique MPSI - MP  
