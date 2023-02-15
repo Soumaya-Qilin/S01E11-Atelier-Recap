@@ -11,7 +11,7 @@
 Une question? Une idée? Une proposition?
 Contactez-moi!
 
->:envelope: <john.doe@gmail.com>
-:telephone_receiver: +33(0)7 08 09 10 11
-:computer: [Linkedin]() 
-> :bird: [Twitter]()
+>:envelope: <john.doe@gmail.com>  
+:telephone_receiver: +33(0)7 08 09 10 11  
+:computer: [Linkedin]()  
+:bird: [Twitter]()
