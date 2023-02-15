@@ -4,7 +4,7 @@
 
 *Developpeur web junior, en formation "Développement Web et Accessibilité"*
 
-Accueil - Projet - CV - Contact
+Accueil - [Projets](/projets.md) - CV - Contact
 
 ## Présentation ##
 
@@ -13,5 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque praemiatrix aliquotiens operatur Adrastia atque utinam semper quam vocabulo duplici etiam Nemesim appellamus: ius quoddam sublime numinis efficacis, humanarum mentium opinione lunari circulo superpositum, vel ut definiunt alii, substantialis tutela generali potentia partilibus praesidens fatis, quam theologi veteres fingentes Iustitiae filiam ex abdita quadam aeternitate tradunt omnia despectare terrena.
 
 ***
-© 2023 - **John Doe** - (lien, [Me contacter]) 
+© 2023 - **John Doe** - [Me contacter]() 
 
