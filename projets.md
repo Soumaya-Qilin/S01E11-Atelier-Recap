@@ -1,10 +1,10 @@
 ![banniere_projet](img/desk-banner.jpg)
 
-## John Doe
+# John Doe
 
 *Developpeur web junior, en formation "Développement Web et Accessibilité"*
 
-Accueil - Projet - CV - Contact
+[Accueil](/README.md)- Projet - CV - Contact
 ## Mes projets ##
 
 Client | Dates | Technologies| Lien
